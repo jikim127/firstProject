@@ -10,7 +10,11 @@ import java.io.IOException;
 public class Project1 extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
+         System.out.println("테스트 입니다");
+        System.out.println("테스트 입니다");
+        System.out.println("테스트 입니다");
+        System.out.println("테스트 입니다");
+        System.out.println("테스트 입니다");
     }
 
     @Override
